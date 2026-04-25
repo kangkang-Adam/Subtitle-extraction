@@ -1,0 +1,18 @@
+*.srt
+*.json
+*.txt
+
+# 忽略所有 .log 文件
+*.log
+
+# 忽略 node_modules 目录
+node_modules/
+
+# 忽略临时文件
+*.tmp
+*.swp
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+*.sublime-project
